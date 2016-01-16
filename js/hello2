@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+
+'use strict'
+
+console.log("Hello, world!");
+console.log("And good morning!");
+
+while (true) {
+  console.log("This is true.");
+}
+
+
